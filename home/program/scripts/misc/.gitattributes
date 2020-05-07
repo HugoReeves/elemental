@@ -1,0 +1,2 @@
+mk-back filter=git-crypt diff=git-crypt
+extract-back filter=git-crypt diff=git-crypt

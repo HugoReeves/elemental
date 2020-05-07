@@ -1,0 +1,5 @@
+{
+  imports = [
+    ./boron/default.nix
+  ];
+}
