@@ -1,6 +1,6 @@
-# README
+# Elemental
 
-Elemental, the component parts of a Nix/OS development system.
+**The component parts of a Nix/OS development system.**
 
 Elemental is my attempt to create a configurable development environment built atop [Nix](https://nixos.org) and [Home Manager](https://github.com/nix-community/home-manager).
 Elemental is currently setup for userspace configuration using Home Manager, I'm working on integrating my NixOS system configuration into the same repo using the same configuration techniques.
