@@ -47,7 +47,7 @@ Within this file you should import `./elemental.nix` which defines elemental's c
 You should also import `./home/default.nix` which imports the individual machine, role and user configuration files.
 If deploying to a linux system, you should also import `./home/linux-only.nix` which imports configurations only available on Linux installations of Nix.
 
-## MacOS Example
+## NixOS Example
 
 The following `home.nix` configuration is for my NixOS desktop.
 
